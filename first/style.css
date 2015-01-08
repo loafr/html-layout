@@ -1,0 +1,32 @@
+html {
+	
+}
+body {
+	background: #999999;
+	width: 100%;
+	height: 900px;
+
+}
+
+.topBox {
+	background: #444444;
+	width: 100%;
+	height: 15%;
+
+}
+
+.midBox {
+	background: #CCCCCC;
+	width: 75%;
+	height: 100%;
+	margin: 0 auto;
+	position: relative;
+}
+
+.bottomBox {
+	background: #111111;
+	width: 100%;
+	height: 10%;
+	position: absolute;
+	bottom: 0px;
+}
