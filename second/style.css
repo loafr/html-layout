@@ -1,0 +1,56 @@
+html {
+	float: both;
+	width: 100%;
+	height: 100%;
+}
+body {
+	float: both;
+	width: 100%;
+	height: 100%;
+
+}
+
+.leftBox {
+	background: #4A90E2;
+	width: 33%;
+	height: 100%;
+	float: left;
+
+
+}
+
+.midBox {
+	background: #50E3C2;
+	width: 34%;
+	height: 100%;
+	float: left;
+
+}
+
+.rightBox {
+	background: #B8E986;
+	width: 33%;
+	height: 100%;
+	float: right;
+	position: relative;
+}
+
+.redBox {
+	background: #D0021B;
+	width: 100%;
+	height: 20%;
+	position: absolute;
+	bottom: 0px;
+
+}
+
+.text {
+	display: table-cell;
+	vertical-align: middle;
+	text-align: center;
+	font-family: arial;
+	color: white;
+	font-size: 28px;
+	
+	
+}
